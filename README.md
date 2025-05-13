@@ -1,6 +1,6 @@
 # 📊 YouTube Channel Analytics Dashboard
 
-An interactive dashboard to analyze and visualize YouTube channel performance using data pulled from the YouTube Data API. Built with Python, MongoDB Atlas, and deployed on Replit.
+An interactive dashboard to analyze and visualize a YouTube channel performance using data pulled from the YouTube Data API.The YouTube channel that is being analyzed here is FreeCodeCamp. Built with Python, MongoDB Atlas, and deployed on Replit.
 
 ![Dashboard Screenshot](dashboard.png)
 
