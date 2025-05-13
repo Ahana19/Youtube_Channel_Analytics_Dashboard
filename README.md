@@ -32,3 +32,19 @@ An interactive dashboard to analyze and visualize YouTube channel performance us
 
 ## 
 
+## 🗂️ Project Structure
+
+```bash
+youtube-analytics-dashboard/
+│
+├── .replit              # Replit configuration for running the app
+├── replit.nix           # Defines the system environment and dependencies on Replit
+├── main.py              # Main application script (Streamlit or Flask)
+├── requirements.txt     # Python packages needed to run the project
+├── utils/               # Contains helper scripts for API requests, DB connection, etc.
+│   ├── api_handler.py   # Manages YouTube API calls
+│   └── db_utils.py      # MongoDB connection and CRUD functions
+├── images/              # Screenshots or image assets for README/docs
+│   └── dashboard_preview.png
+└── README.md            # Project documentation
+```
